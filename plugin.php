@@ -9,7 +9,7 @@ Author URI: https://github.com/sgiovagnoli/
 */
 
 // Get your free API key at thumbnail.ws and write it here :
-define( 'THUMBNAIL_WS_API_KEY', 'YOUR-FREE-API-KEY' );
+define( 'THUMBNAIL_WS_API_KEY', 'abce062ef9b6cf34e83c4e0cbfbc63595474868313e4' );
 // Width of the thumbnail on admin page (in pixel) :
 define( 'ADM_THUMBNAIL_WS_WIDTH', '200' );
 // Width of thumbnail on stat page (in pixel) :
